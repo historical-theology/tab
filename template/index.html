@@ -16,7 +16,7 @@
 <body>
 <div class="ui center aligned container" id="search-block">
     <div class="ui big action input">
-        <input autofocus class="prompt" type="search" size="40" placeholder="Google..." id="search">
+        <input autofocus class="prompt" type="search" size="40" placeholder="Search DuckDuckGo..." id="search">
         <button class="ui icon button" id="search_button">
             <i class="search icon"></i>
         </button>
@@ -30,7 +30,7 @@
 <script>
 function search() {
     var query = $("#search").val();
-    window.open("https://www.google.com/search?q=" + query + "&oq=" + query, "_self");
+    window.open("https://duckduckgo.com/?q=" + query + "&oq=" + query, "_self");
 }
 
 $("#search_button").on('click', search);

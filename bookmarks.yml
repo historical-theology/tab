@@ -1,110 +1,74 @@
-Listen:
-    Mixcloud:
-        href: //mixcloud.com
-        icon: mixcloud
-    DI:
-        href: //di.fm
-    Spotify:
-        href: //spotify.com
-        icon: spotify
-
 Code:
-    BitBucket:
-        href: //bitbucket.org
-        icon: bitbucket
-    Codacy:
-        href: //app.codacy.com
-    Codecov:
-        href: //codecov.io
+    Codeberg:
+        href: https://codeberg.org/coreystephan
+        icon: code branch
     GitHub:
-        href: //github.com
+        href: https://github.com/historical-theology
         icon: github
-    Read the Docs:
-        href: //readthedocs.org
-    Travis CI:
-        href: //travis-ci.org
+    GitLab:
+        href: https://gitlab.com/historical-theology
+        icon: gitlab
+    DT's Dotfiles:
+        href: https://gitlab.com/dwt1/dotfiles
+        icon: dot circle outline
 
-Learn:
-    Coursera:
-        href: //coursera.org
-    edX:
-        href: //edx.org
-    freeCodeCamp:
-        href: //freecodecamp.org
-        icon: free code camp
-    KhanAcademy:
-        href: //khanacademy.org
-    Rosalind:
-        href: http://rosalind.info
-    Stepik:
-        href: //stepik.org
-    TutorialsPoint:
-        href: //tutorialspoint.com
-    Udacity:
-        href: //udacity.com
-    Udemy:
-        href: //www.udemy.com
-    W3Schools:
-        href: //w3schools.com
+Free Software:
+    Debian Wiki:
+        href: https://wiki.debian.org
+        icon: edit outline
+    FreeBSD Wiki:
+        href: https://wiki.freebsd.org
+        icon: freebsd
+    Arch Wiki:
+        href: https://wiki.archlinux.org
+        icon: edit
+    AUR:  
+        href: https://aur.archlinux.org
+        icon: linux
 
-Read:
-    Dev.to:
-        href: //dev.to
-    Habr:
-        href: //habrahabr.ru
-    Medium:
-        href: //medium.com
-        icon: medium
-    Reddit:
-        href: //reddit.com
-        icon: reddit
-    StackOverflow:
-        href: //stackoverflow.com
-        icon: stack overflow
+Work:
+    MU Library:
+        href: https://marquette.edu/library
+        icon: university
+    MU D2L:
+        href: https://d2l.marquette.edu
+        icon: frown outline
+    Perseus:
+        href: https://perseus.tufts.edu/hopper/morph
+        icon: comments
+    scribd:
+        href: https://scribd.com
+        icon: scribd
 
-Social &amp; Media:
-    Facebook:
-        href: //facebook.com
-        icon: facebook
-    GMail:
-        href: //gmail.com
-        icon: google
-    Last.fm:
-        href: //last.fm
-        icon: lastfm
-    Tumblr:
-        href: //tumblr.com
-        icon: tumblr
-    Twitter:
-        href: //twitter.com
-        icon: twitter
-    Vimeo:
-        href: //vimeo.com
-        icon: vimeo
-    VK:
-        href: //vk.com
-        icon: vk
-    Youtube:
-        href: //youtube.com
-        icon: youtube
+Personal:
+    Website Home:
+        href: https://coreystephan.com
+        icon: user secret
+    Website Admin:
+        href: https://coreystephan.com/wp-admin
+        icon: wordpress simple
+    Home Directory:
+        href: file:///home/corey/
+        icon: warehouse
 
-Science:
-    Cell:
-        href: //cell.com
-    Frontiers:
-        href: //frontiersin.org
-    Lancet:
-        href: //thelancet.com
-    Nature:
-        href: //nature.com
-    PLoS ONE:
-        href: //journals.plos.org
-    Pubmed:
-        href: //www.ncbi.nlm.nih.gov/pubmed
-    Researchgate:
-        href: //researchgate.net
-    Scholar:
-        href: //scholar.google.com
-        icon: google
-    Science:
-        href: //sciencemag.com
+Media:
+    lbry:
+        href: https://lbry.tv
+        icon: tv
+    Distrotube:
+        href: https://distrotube.com/videos/
+        icon: video
+    War is Hell:
+        href: https://snackbar.me
+        icon: fighter jet
+
+News:
+    NPR:
+        href: https://npr.org/sections/news/
+        icon: newspaper
+    BBC:
+        href: https://bbc.com/news
+        icon: newspaper outline
+    MJS:
+        href: https://jsonline.com
+        icon: file alternate
